@@ -1,0 +1,43 @@
+/*
+Theme Name: Walk to WordCamp Europe (Beaver Builder Child Theme)
+Theme URI: https://walktowc.eu
+Version: 2.0
+Description: Keep on walking....
+Author: Marcel Bootsman
+Author URI: https://marcelbootsman.nl
+template: bb-theme
+*/
+
+/*
+Yellow highlight: #f9f9de
+Background color: #fbfbf1
+Content background color: #f9f9f4
+Font color: #000000
+CTA: #99dd9b
+
+ */
+/*
+@font-face {
+	font-family: 'Oldstandard Vintage';
+	src: url('/wp-content/themes/walktowceu/fonts/oldstandard-vintage.woff2') format('woff2'),
+	url('/wp-content/themes/walktowceu/fonts/oldstandard-vintage.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Oldstandard Regular';
+	src: url('/wp-content/themes/walktowceu/fonts/oldstandard-regular.woff2') format('woff2'),
+	url('/wp-content/themes/walktowceu/fonts/oldstandard-regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+*/
+
+@font-face {
+	font-family: 'Aemstel Regular';
+	src: url('/wp-content/themes/walktowceu/fonts/aemstel-regular.woff2') format('woff2'),
+	url('/wp-content/themes/walktowceu/fonts/aemstel-regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
